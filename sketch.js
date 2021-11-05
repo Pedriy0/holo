@@ -16,7 +16,7 @@ function preload(){
   jwelleryImg = loadImage("jwell.png");
   swordImg = loadImage("sword.png");
   gover = loadImage("gameOver.png");
-  //Descomentar la línea de código correcta para cargar la omagen llamada gameOver.png
+  //Descomentar la línea de código correcta para cargar la imagen llamada gameOver.png
   
   //gover=gameOver.png;
   
